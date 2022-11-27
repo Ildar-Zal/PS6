@@ -25,6 +25,7 @@ public class LionTest  {
         return new Object[][]{
                 {"Самец"},
                 {"Самка"},
+                {"Неизвестно"},
         };
     }
 

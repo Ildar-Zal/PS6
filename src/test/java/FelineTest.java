@@ -22,7 +22,7 @@ public class FelineTest {
     public static Object[][] getNumberAndFamily() {
         return new Object[][]{
                 {2,"Животное"},
-                {2,"Животное"},
+                {4,"Неживотное"},
         };
     }
     @Mock
